@@ -1,0 +1,17 @@
+{
+  "name": "circlecli",
+  "version": "1.0.0",
+  "description": "All about testing",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "Testing"
+  ],
+  "author": "Wasif Ali",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^6.2.0"
+  }
+}
